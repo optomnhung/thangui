@@ -1,0 +1,42 @@
+{
+    "maitrang": {
+        "id": "maitrang",
+        "title": "Gửi tềnh iu❤️",
+        "message": "Cảm ơn em đã đến bên anh, làm cuộc sống của anh trở nên đặc biệt hơn bao giờ hết...",
+        "music": "https://cdn.shopify.com/s/files/1/0757/9700/4572/files/0210.MP3?v=1770658101",
+        "images": [
+            "./anh/mt1.jpeg",
+            "./anh/mt2.jpeg",
+            "./anh/mt3.jpeg",
+            "./anh/mt4.jpeg",
+            "./anh/mt5.jpeg",
+            "./anh/mt6.jpeg",
+            "./anh/mt7.jpeg"
+        ]
+    },
+    "oanhoanh": {
+        "id": "oanhoanh",
+        "title": "Gửi tềnh iu❤️",
+        "message": "Chúc em luôn rực rỡ, hạnh phúc và tràn ngập niềm vui mỗi ngày!",
+        "music": "https://cdn.shopify.com/s/files/1/0757/9700/4572/files/0210.MP3?v=1770658101",
+        "images": [
+            "./anh/oo1.jpeg",
+            "./anh/oo2.jpeg",
+            "./anh/oo3.jpeg"
+        ]
+    },
+    "duongthuy": {
+        "id": "duongthuy",
+        "title": "Gửi tềnh iu❤️",
+        "message": "Chúc em luôn rực rỡ, hạnh phúc và tràn ngập niềm vui mỗi ngày!",
+        "music": "https://cdn.shopify.com/s/files/1/0757/9700/4572/files/0210.MP3?v=1770658101",
+        "images": [
+            "./anh/th1.jpeg",
+            "./anh/th2.jpeg",
+            "./anh/th3.jpeg",
+            "./anh/th4.jpeg",
+            "./anh/th5.jpeg",
+            "./anh/th6.jpeg"
+        ]
+    }
+}
